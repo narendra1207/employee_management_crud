@@ -1,0 +1,63 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "narendra",
+      "lastName": "singh",
+      "email": "ssmith@gmail.com",
+      "mobile": 124,
+      "salary": 5432
+    },
+    {
+      "id": 2,
+      "firstName": "steev",
+      "lastName": "Smith",
+      "email": "ssmith@gmail.com",
+      "mobile": 9999999,
+      "salary": 11999999
+    },
+    {
+      "id": 3,
+      "firstName": "Emma",
+      "lastName": "watson",
+      "email": "emma@watson.com",
+      "mobile": 8881212,
+      "salary": 550000
+    },
+    {
+      "id": 4,
+      "firstName": "joseph",
+      "lastName": "Smith",
+      "email": "emma@watson.com",
+      "mobile": 1234567,
+      "salary": 888888
+    },
+    {
+      "id": 5,
+      "firstName": "neha ",
+      "lastName": "d",
+      "email": "nehad@gmail.com",
+      "mobile": 12346,
+      "salary": 23333
+    }
+  ],
+  "signupUsers": [
+    {
+      "fullName": "narendra singh lodhi",
+      "email": "nsingh@gmail.com",
+      "mobile": 7987936576,
+      "password": "nsingh1207",
+      "id": 1
+    },
+    {
+      "fullName": "narendra singh lodhi",
+      "email": "narendra@gmail.com",
+      "mobile": 12345,
+      "password": "12345678",
+      "id": 2
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

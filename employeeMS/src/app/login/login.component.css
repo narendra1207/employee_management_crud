@@ -1,0 +1,25 @@
+.card{
+ position: absolute;
+top:50%;
+left: 50%;
+border: none;
+width: 50%;
+padding: 40px;
+transform: translate(-50% ,-50%);
+background: rgb(140, 169, 190);
+background: linear-gradient(90deg,rgb(87, 123, 148)0% ,rgb(115, 92, 160)100% );
+
+}
+.card  h1, h6 {
+    color: white;
+}
+label{
+    color: aliceblue;
+}
+#emailHelp{
+    color: white;
+}
+a{
+    color: azure;
+    margin-top: 10px;
+   }
